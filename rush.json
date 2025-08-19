@@ -1,0 +1,21 @@
+{
+  "rushVersion": "5.82.0",
+  "projects": [
+    {
+      "packageName": "frontend-app",
+      "projectFolder": "packages/frontend"
+    },
+    {
+      "packageName": "backend-service",
+      "projectFolder": "packages/backend"
+    },
+    {
+      "packageName": "shared-utils",
+      "projectFolder": "packages/shared"
+    },
+    {
+      "packageName": "build-tools",
+      "projectFolder": "tools/build-scripts"
+    }
+  ]
+}
