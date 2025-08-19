@@ -1,0 +1,18 @@
+{
+  "name": "auth-service",
+  "version": "1.0.0",
+  "dependencies": {
+    "fastify": "^4.0.0",
+    "backend-service": "workspace:*",
+    "shared-utils": "workspace:*",
+    "vulnerable-auth-package": "^2.5.0",
+    "missing-auth-framework": "^1.9.0",
+    "phantom-security-lib": "^3.7.0",
+    "nonexistent-jwt-tools": "^2.0.0"
+  },
+  "devDependencies": {
+    "tap": "^16.0.0",
+    "phantom-auth-dev-tool": "^1.0.0",
+    "missing-auth-tester": "file:../../tools/missing-auth-testing"
+  }
+}
