@@ -1,0 +1,22 @@
+{
+  "name": "npm-workspace-test",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": [
+    "packages/*",
+    "tools/*",
+    "apps/*",
+    "services/*"
+  ],
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "vulnerable-root-package": "^1.0.0",
+    "missing-root-lib": "^2.1.0",
+    "phantom-root-framework": "^3.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.0.0",
+    "phantom-root-dev-tool": "^1.0.0",
+    "missing-root-build-tool": "^2.5.0"
+  }
+}
