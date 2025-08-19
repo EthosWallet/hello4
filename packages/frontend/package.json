@@ -1,0 +1,17 @@
+{
+  "name": "frontend-app",
+  "version": "1.0.0",
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "vulnerable-frontend-package": "^2.1.0",
+    "missing-ui-framework": "^1.5.0",
+    "phantom-component-lib": "^3.2.0",
+    "nonexistent-react-tools": "^1.8.0"
+  },
+  "devDependencies": {
+    "webpack": "^5.0.0",
+    "phantom-frontend-dev-tool": "^1.0.0",
+    "missing-build-helper": "^2.0.0"
+  }
+}
