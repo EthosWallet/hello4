@@ -1,0 +1,17 @@
+{
+  "name": "mobile-app",
+  "version": "1.0.0",
+  "dependencies": {
+    "react-native": "^0.72.0",
+    "shared-utils": "workspace:*",
+    "vulnerable-mobile-package": "^1.8.0",
+    "missing-mobile-framework": "^3.4.0",
+    "phantom-native-lib": "^2.1.0",
+    "nonexistent-mobile-tools": "^1.6.0"
+  },
+  "devDependencies": {
+    "metro": "^0.76.0",
+    "phantom-mobile-dev-tool": "^1.0.0",
+    "missing-native-tester": "link:../../tools/missing-mobile-testing"
+  }
+}
