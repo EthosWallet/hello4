@@ -1,0 +1,17 @@
+{
+  "name": "backend-service",
+  "version": "1.0.0",
+  "dependencies": {
+    "express": "^4.18.0",
+    "shared-utils": "workspace:*",
+    "vulnerable-backend-package": "^1.7.0",
+    "missing-api-framework": "^2.3.0",
+    "phantom-database-lib": "^4.1.0",
+    "nonexistent-middleware": "^1.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.0",
+    "phantom-backend-test-tool": "^1.0.0",
+    "missing-dev-server": "^1.5.0"
+  }
+}
