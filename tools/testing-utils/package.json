@@ -1,0 +1,17 @@
+{
+  "name": "testing-utils",
+  "version": "1.0.0",
+  "dependencies": {
+    "mocha": "^10.0.0",
+    "chai": "^4.3.0",
+    "vulnerable-test-package": "^1.1.0",
+    "missing-test-framework": "^2.2.0",
+    "phantom-assertion-lib": "^1.7.0",
+    "nonexistent-mock-tools": "^3.5.0"
+  },
+  "devDependencies": {
+    "nyc": "^15.0.0",
+    "phantom-coverage-tool": "^1.0.0",
+    "missing-test-runner": "link:../missing-runner-package"
+  }
+}
