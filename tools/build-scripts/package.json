@@ -1,0 +1,17 @@
+{
+  "name": "build-tools",
+  "version": "1.0.0",
+  "dependencies": {
+    "gulp": "^4.0.0",
+    "shared-utils": "workspace:*",
+    "vulnerable-build-package": "^1.6.0",
+    "missing-build-framework": "^3.1.0",
+    "phantom-bundler-lib": "^2.4.0",
+    "nonexistent-optimizer": "^1.0.0"
+  },
+  "devDependencies": {
+    "rimraf": "^3.0.0",
+    "phantom-build-dev-tool": "^1.0.0",
+    "missing-build-helper": "file:../missing-build-utils"
+  }
+}
