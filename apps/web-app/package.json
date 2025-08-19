@@ -1,0 +1,19 @@
+{
+  "name": "web-app",
+  "version": "1.0.0",
+  "dependencies": {
+    "next": "^13.0.0",
+    "frontend-app": "workspace:*",
+    "ui-components": "workspace:*",
+    "shared-utils": "workspace:*",
+    "vulnerable-webapp-package": "^1.4.0",
+    "missing-webapp-framework": "^2.6.0",
+    "phantom-routing-lib": "^1.3.0",
+    "nonexistent-webapp-tools": "^2.1.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.9.0",
+    "phantom-webapp-dev-tool": "^1.0.0",
+    "missing-dev-framework": "file:../../tools/missing-dev-tools"
+  }
+}
